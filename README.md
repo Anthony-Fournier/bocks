@@ -1,5 +1,5 @@
 # bocks
-Anthony Fournier, adavidfour@yahoo.com, github.com/Anthony-Fournier
+Anthony Fournier, github.com/Anthony-Fournier
 Harvardx CS50x 11/2020 Final Project - Games Track game titled, Bocks,
 written in Lua, and utilizing the LÖVE2D framework.
 
